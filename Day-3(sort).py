@@ -1,4 +1,4 @@
-# Bubble Sort
+# Implement Bubble Sort
 
 def bubble_sort(arr):
     n = len(arr)
@@ -13,7 +13,7 @@ def bubble_sort(arr):
 bubbly = bubble_sort([20,50,30,100,60])
 print("Bubble Sorted Array is: ", bubbly)
 
-# Quick Sort
+# Implement Quick Sort
 
 def quick_sort(arr2):
 
