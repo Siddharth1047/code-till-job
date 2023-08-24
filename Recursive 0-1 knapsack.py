@@ -63,5 +63,5 @@ n5 = len(wt5)
 result5 = knapSack(W5, wt5, val5, n5)
 print("Test Case 5 - Expected:", 10, "Actual:", result5)
 
-# Sometimes (in case of larger inputs) recursion based solution for 0/1 knapsack rpoblem fails because of redundant calculations.
+# Sometimes (in case of larger inputs) recursion based solution for 0/1 knapsack problem fails because of redundant calculations.
 # Hence, try using DP for solving this problem, it's more efficient and clean.
