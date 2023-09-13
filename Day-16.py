@@ -1,4 +1,4 @@
-# Find vowels and consonants in a string
+# Find vowels and consonants in a string.
 
 class VowelFinder:
     def __init__(self):
