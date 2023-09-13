@@ -1,4 +1,4 @@
-# Check whether a BinaryTree is a BST or not
+# Check whether a BinaryTree is a BST or not.
 
 class Node:
     def __init__(self, key, val):
