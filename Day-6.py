@@ -1,4 +1,4 @@
-# Parenthesis Checker
+# Parenthesis Checker.
 
 def is_valid_parentheses(s):
     stack = []
