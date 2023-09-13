@@ -1,4 +1,4 @@
-# Find duplicate in an array
+# Find duplicate in an array.
 
 def duplicate(arr,n):
     seen = {}
