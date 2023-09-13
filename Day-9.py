@@ -1,4 +1,4 @@
-# Roman to Integer (LeetCode)
+# Roman to Integer (LeetCode).
 
 class Solution:
     def romanToint(self, s: str) -> int:
