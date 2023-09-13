@@ -1,4 +1,4 @@
-# Kadane's Algorithm
+# Kadane's Algorithm.
 
 def kadane(arr):
     n = len(arr)
