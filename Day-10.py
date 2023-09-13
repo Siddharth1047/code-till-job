@@ -1,4 +1,4 @@
-# Binary Search
+# Binary Search.
 
 def binary_search(arr, target):
     left = 0
