@@ -1,7 +1,7 @@
 # Find peak element in a array 
 # Peak element is the greatest element in it's neighbourhood
 # Example: - arr == [1,2,3] Peak element is 3(i.e. = 2)
-# 2 is it's position in the array 
+# 2 is it's position in the array.
 
 def Mid(arr):
     left, right = 0, len(arr) - 1
