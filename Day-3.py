@@ -7,7 +7,7 @@ Output: h
 Explanation: In the given string, the
 first character which is non-repeating
 is h, as it appears first and there is
-no other 'h' in the string.
+no other 'h' in the string
 Example 2:
 
 Input:
