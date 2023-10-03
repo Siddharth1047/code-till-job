@@ -18,3 +18,10 @@ if (a==b==c==0):
 else:
     print("NO")
 
+"""
+CodeForces Word Capitalize
+Code - 281A
+Link - https://codeforces.com/problemset/problem/281/A
+"""
+t = input()
+print(t[0].upper() + t[1:])
